@@ -9,7 +9,6 @@ import datetime
 import dataBase
 import os
 
-# FIXME!!! This bot is not working!!!!
 
 secretKey = '' # Insert SK
 TOKEN = 'Test' # Insert Token
