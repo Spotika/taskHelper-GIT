@@ -1,15 +1,15 @@
 from parso import parse
 from telebot import TeleBot
 from telebot import types
-# from telegram import ParseMode
+
 import methods
 from constants import *
 import parseExel
 import datetime
 import dataBase
-# import methods
 import os
 
+# FIXME!!! This bot is not working!!!!
 
 secretKey = '' # Insert SK
 TOKEN = 'Test' # Insert Token
